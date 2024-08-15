@@ -1,11 +1,16 @@
 _repo: Reports-on-atrocities-in-the-districts-of-Yalova-and-Guemlek-and-in-the-Ismid-Peninsula-b-Pre__73839
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73839-h/images/cover.jpg
 creator:
   author:
     agent_name: Commission, Inter-Allied
     gutenberg_agent_id: '57243'
     url: http://www.gutenberg.org/2009/agents/57243
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73839#Reports-on-atrocities-in-the-districts-of-Yalova-and-Guemlek-and-in-the-Ismid-Peninsula-b-Pre_
 gutenberg_issued: '2024-06-16'
 gutenberg_type: Text
 identifiers:
